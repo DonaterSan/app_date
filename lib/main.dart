@@ -1,5 +1,6 @@
 import 'package:app_date/screens/home_screen.dart';
 import 'package:flutter/material.dart';
+import 'package:freezed_annotation/freezed_annotation.dart';
 
 void main() {
   runApp(const MainApp());
